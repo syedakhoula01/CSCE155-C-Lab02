@@ -8,4 +8,10 @@ int main()
     scanf("%lf", &USD_amount);
 
     exchange_fee=0.10 * USD_amount;
+
+    GBP_amount= 0.5 * (USD_amount - exchange_fee) * 0.79;
+    JPY_amount=0.5 * (USD_amount-exchange_fee) * 127.65;
+
+
+
 }
