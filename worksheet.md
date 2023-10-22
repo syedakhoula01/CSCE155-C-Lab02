@@ -72,6 +72,7 @@ to use it to convert the US national debt
 (which as of 2020 was \$26,009,754,625,487)?
 Why or why not?
 
+no ! data type int cant be used to represent such long number as it would cross the range limit.
 
 
 
