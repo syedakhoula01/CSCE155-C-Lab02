@@ -29,6 +29,7 @@ program by giving it "bad" input and observe the consequences.
 Give at least two examples of potentially bad input and the
 results you observe.
 
+Providing date with wrong format and with negative value will be considered as bad input which will break the program.
 
 
 
