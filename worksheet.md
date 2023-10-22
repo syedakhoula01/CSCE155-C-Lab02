@@ -78,11 +78,12 @@ Why or why not?
 
 a) Run the `area` program with 3 and 4 as inputs.  
 What value do you get?  Is this result correct?
-
+The area is 0.000000 square units. which is an incorrect answer
 
 b) Execute the program again with inputs 3 and 5.
 Does the program give correct results?  Why not?
-
+The area is 0.000000 square units.which is also an incorrect answer  because in the area program 1/2 is used instead of 0.5 in the formula.
 
 c) Fix the program by editing the `area.c` source
 code so that the program produces correct results.
+fixed
