@@ -6,4 +6,6 @@ int main()
 
     printf("enter the amount in US dollar: ");
     scanf("%lf", &USD_amount);
+
+    exchange_fee=0.10 * USD_amount;
 }
