@@ -59,11 +59,14 @@ Providing date with wrong format and with negative value will be considered as b
 the exchange amounts for the following inputs:
 
   a) $250.25
-
+   GCB AMOUNT:88.96
+   JPY AMOUNT:14375
   b) $1,000.52
-
+   GCB AMOUNT:355.68
+   JPY AMOUNT:57472
   c) $968,410.12
-
+   GCB AMOUNT:344269.80
+   JPY AMOUNT:55627898
 
 
 6. Suppose that you had used only `int` types
