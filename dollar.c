@@ -12,6 +12,10 @@ int main()
     GBP_amount= 0.5 * (USD_amount - exchange_fee) * 0.79;
     JPY_amount=0.5 * (USD_amount-exchange_fee) * 127.65;
 
+    printf("GCB amount : %.2lf\n" , GBP_amount);
+    printf("JPY amount : %.1lf\n", JPY_amount);
+
+    return 0;
 
 
 }
